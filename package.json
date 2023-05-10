@@ -1,0 +1,22 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "JavaScript-Asincronismo-Proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5arSanti/async-landing.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Santiago Arias <santiari05@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5arSanti/async-landing/issues"
+  },
+  "homepage": "https://github.com/5arSanti/async-landing#readme"
+}
