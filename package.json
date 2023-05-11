@@ -4,7 +4,7 @@
   "description": "JavaScript-Asincronismo-Proyect",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/5arSanti/async-landing/issues"
   },
-  "homepage": "https://github.com/5arSanti/async-landing#readme"
+  "homepage": "https://github.com/5arSanti/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
